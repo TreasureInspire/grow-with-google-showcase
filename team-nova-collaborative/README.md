@@ -39,7 +39,7 @@ Live application: https://nova-contract-safety-tracker-896952476797.europe-west2
 
 Dashboard design (interactive prototype): src/dashboard.jsx
 
-Recorded walkthrough (max 5 min): Watch Walkthrough Video
+Recorded walkthrough (max 5 min): Watch Walkthrough Video https://drive.google.com/file/d/18EdQBvKedtPDG9aPp6dD5dE78wU-0pGL/view?usp=drivesdk
 
 Project Charter: docs/project-charter.pdf
 
